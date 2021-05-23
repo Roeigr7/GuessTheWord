@@ -14,5 +14,4 @@ the right words for the game:
   'To',
   'Bambi',
   'Company',
-];
 
